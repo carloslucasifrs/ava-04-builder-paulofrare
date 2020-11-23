@@ -35,5 +35,4 @@ export class Alimento {
       `Gorduras Trans: ${this.gordurasTrans} g\n` +
       `Gorduras Totais: ${this.gordurasTotais} g`
   }
-
 }
